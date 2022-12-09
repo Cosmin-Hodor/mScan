@@ -1,6 +1,8 @@
 ﻿
-![Logo](https://raw.githubusercontent.com/Cosmin-Hodor/mScan/main/mScan.png)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cosmin-Hodor/mScan/main/mScan.png" alt="mScan Piece of Code"/>
+</p>
 
 ## Contributing
 
