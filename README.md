@@ -24,3 +24,6 @@ Am not responsable for any damages or potential changes brought by other contrib
 Feel free to use any compiler you like! (https://gcc.gnu.org)
 
 Make sure that before you compile the code, you read it and change it accordingly to fit your needs.
+
+
+Mai multe chestii interesante: https://wiki.dcae.pub.ro/index.php/Pagina_principal%C4%83
