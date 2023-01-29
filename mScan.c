@@ -9,6 +9,7 @@ int main() {
   FILE *fp;
 
   // Deschideti fisierul pentru citire si scriere folosind modul "rw" 📁
+  // Schimbati numele fisierului cu cel dorit ("memory.dat" -> "vscode.exe")
   fp = fopen("memory.dat", "rw");
   if (fp == NULL) {
     // Afisati un mesaj de eroare daca fisierul nu a putut fi deschis
